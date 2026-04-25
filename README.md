@@ -10,13 +10,13 @@
 ### 🚀 About Me
 - 🔭 I’m currently working on My First Python Projects
 - 🌱 I’m currently learning OOP, Data Structures, HTML & CSS
-- 💻 I code mostly on Google Colab & VS Code
+- 💻 I code mostly on Google Colab
 - 💬 Ask me about Python Basics
 - ⚡ Fun fact: I built my GitHub profile on day one
 
 ### 🛠️ Languages and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,git,github,vscode,colab" />
+  <img src="https://skillicons.dev/icons?i=python,html,git,github,colab" />
 </p>
 
 ### 📊 GitHub Stats
