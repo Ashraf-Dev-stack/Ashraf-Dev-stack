@@ -16,7 +16,7 @@
 
 ### 🛠️ Languages and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,git,github,colab" />
+  <img src="https://skillicons.dev/icons?i=python,html,git,github,googlecolab" />
 </p>
 
 ### 📊 GitHub Stats
