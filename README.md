@@ -10,12 +10,16 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on My First Python Projects
-- 🌱 I’m currently learning OOP, Data Structures, HTML & CSS
-- 💻 I code mostly on Google Colab
-- 💬 Ask me about Python Basics
-- ⚡ Fun fact: I built my GitHub profile on day one
+## 🚀 About Me
+
+- 🔥 I build age-calculator-pro-max-ultra - counts your life in 465 billion microseconds 
+- 🧠 Currently mastering: Python, OOP, Data Structures & Building my brand
+- 🎯 Goal 2026: Become the youngest Software Engineer in MENA 
+- 💻 I code on: VS Code, GitHub, Google Colab
+- ⚡ Fun fact: I question my existence in microseconds datetime.utcnow() 😂
+- 📫 Ask me about: Python, GitHub, Microsecond Precision
+
+> "Building my future one line at a time" 💪
 
 ### 🛠️ Languages and Tools
 <p>
