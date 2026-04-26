@@ -26,6 +26,6 @@
 </p>
 
 ### 📫 Connect with me
-<p>
+
   [ashraf.amr72011@gmail.com](mailto:ashraf.amr72011@gmail.com)
-</p>
+
