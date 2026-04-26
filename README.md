@@ -24,3 +24,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashraf-Dev-stack&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+### 📫 Connect with me
+<p>
+  [ashraf.amr72011@gmail.com](mailto:ashraf.amr72011@gmail.com)
+</p>
