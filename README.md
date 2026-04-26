@@ -23,7 +23,7 @@
 
 ### 🛠️ Languages and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,git,github,VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,html,git,github,VSCode" />
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="48" />
 </p>
 
