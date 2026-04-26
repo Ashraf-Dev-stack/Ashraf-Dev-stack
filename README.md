@@ -27,9 +27,18 @@
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="48" />
 </p>
 
-### 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ashraf-Dev-stack&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashraf-Dev-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ashraf's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashraf-Dev-stack&theme=tokyonight&hide_border=true" alt="Ashraf's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-Dev-stack&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ### 📫 Connect with me
