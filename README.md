@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="logo.PNG" width="500">
+</p>
 <h1 align="center">👋 Hi, I'm Ashraf Amr</h1>
 <h3 align="center">💻 Python Developer | 15 y/o | Egypt</h3>
 
